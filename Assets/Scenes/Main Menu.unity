@@ -249,7 +249,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: PLAY
+  m_text: JUGAR
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c69c61b1c2338f443a29c244e39385cd, type: 2}
   m_sharedMaterial: {fileID: 360204078287354410, guid: c69c61b1c2338f443a29c244e39385cd, type: 2}
@@ -384,7 +384,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: QUIT
+  m_text: SALIR
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c69c61b1c2338f443a29c244e39385cd, type: 2}
   m_sharedMaterial: {fileID: 360204078287354410, guid: c69c61b1c2338f443a29c244e39385cd, type: 2}
@@ -613,7 +613,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The \nworld's \nGREATEST \nparkour LORD\nbecomes\ncommoner ?!"
+  m_text: "\xBFEl SE\xD1OR del parkour\r\nm\xE1s GRANDE del mundo\r\nse convierte
+    en\r\nun ciudadano com\xFAn?!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c69c61b1c2338f443a29c244e39385cd, type: 2}
   m_sharedMaterial: {fileID: 360204078287354410, guid: c69c61b1c2338f443a29c244e39385cd, type: 2}
@@ -640,7 +641,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 83.3
+  m_fontSize: 114.9
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
